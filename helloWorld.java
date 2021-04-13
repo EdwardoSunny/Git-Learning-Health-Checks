@@ -7,8 +7,7 @@ public static class helloWorld {
                 System.out.println("EVEN: " + j);
             }
         }
-        for (int i = 0; i < 5; i++) {
-            System.out.println(i);
-        }
+
+        System.out.println("Goodbye WRLD!");
     }
 }
