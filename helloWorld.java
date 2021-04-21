@@ -5,5 +5,8 @@ public static class helloWorld {
 	for (int i = 0; i < 10; i ++) {
 		System.out.println("hello this is edward");
 	}
+	while (true) {
+		System.out.println("spam")
+	}
     }		
 }

@@ -1,5 +1,5 @@
 # Git-Learning-Health-Checks
-git learning class 
+git learning practice
 
-Cool praticing stuff 
+cool thingies 
 
