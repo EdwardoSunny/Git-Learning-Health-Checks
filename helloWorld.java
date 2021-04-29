@@ -6,7 +6,9 @@ public static class helloWorld {
 		System.out.println("hello this is edward");
 	}
 	while (true) {
-		System.out.println("spam")
+		if  (i < 10) {
+			System.out.println("bigger than 10 spam");
+		}
 	}
     }		
 }
